@@ -1,5 +1,8 @@
 # Open-Source Implementation of Classical Seismic Amplitude Gain Techniques in Python for Reproducible 2D Seismic Processing
 Seismic amplitude gain correction serves as a crucial preprocessing step in reflection seismology, facilitating enhanced visualization and interpretation of deeper reflectors. While commonly utilized in commercial seismic processing software, there is a notable shortage of transparent and reproducible open-source implementations in the published literature. This brief communication defines a clear and replicable Python implementation of traditional seismic gain techniques, encompassing Automatic Gain Control (AGC), linear gain, power-law gain, exponential gain, and time-variant gain expressed in decibels. We demonstrate the application of gain on a 2D SEG-Y seismic line using open-source libraries such as NumPy, Matplotlib, and segyio. This workflow enhances transparency, reproducibility, and accessibility for applications in education and research within the fields of Earth and planetary sciences. 
+
 Yasir Bashir
-Department of Geophysics, Istanbul Technical University (ITU), Türkiye
+
+Department of Geophysical Engineering, Faculty of Mines, Istanbul Technical University (ITU), Türkiye
+
 Corresponding author: dryasir.bashir@live.com, ybashir@itu.edu.tr
